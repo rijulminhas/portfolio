@@ -69,7 +69,7 @@ export function Navbar() {
           href="#home"
           className="focus-ring text-lg font-semibold tracking-tight text-text-primary"
         >
-          Rijul<span className="text-accent-2">.</span>
+         Rijul <span className="text-accent-2">Minhas</span>
         </Link>
 
         <ul className="hidden items-center gap-1 md:flex">
