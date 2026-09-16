@@ -39,7 +39,7 @@ export function AboutSection() {
                 }}
               />
             </div>
-            <div className="absolute -bottom-4 -right-4 -z-10 h-full w-full rounded-2xl border border-accent-2/20" />
+            {/* <div className="absolute -bottom-4 -right-4 -z-10 h-full w-full rounded-2xl border border-accent-2/20" /> */}
           </Reveal>
 
           <div className="flex flex-col gap-10">
